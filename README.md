@@ -1,4 +1,4 @@
-# Medical Data Analysis And Prediction
+# Drug Treatment Insights: Deep Learning & Analytics
 This repository contains the solutions to the problems related to drug treatment analysis. The analysis is based on a dataset containing electronic health records of patients diagnosed with a specific disease. The dataset provides detailed information about each patient's medical history, including diagnoses, symptoms, prescribed drug treatments, and medical tests.
 
 ## Problem 1: Predicting Eligibility for "Target Drug"
