@@ -49,6 +49,10 @@ Please ensure that these dependencies are installed before running the notebooks
 ## Conclusion
 This analysis provides insights into drug treatment analysis, explicitly focusing on predicting eligibility, analyzing drop-off rates, and understanding prescription patterns for "Target Drug." The solutions provided in the notebooks aim to assist healthcare professionals in making informed decisions and improving patient outcomes.
 
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 Thank you for viewing this repo! Feel free to reach out with any questions or feedback.
 
 <em style="color: #ff66b2; font-weight: bold;">✨ --- Designed & made with Love by Shib Kumar Saraf ✨</em>
